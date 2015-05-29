@@ -32,5 +32,5 @@ else if(userChoice=== "scissors" && computerChoice=== "rock" ){
     console.log("The computer won");
 }
 else{
-    console.log("there is a bug")
+    console.log("there is a bug, sorry!")
 }
